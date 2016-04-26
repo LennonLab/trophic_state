@@ -1,0 +1,22 @@
+Tank = mesocosm ID
+NutTreat = nominal nutrient treatment; 1 = Low, 2 = Medium, 3 = High
+Invasion = invasion treatment; 0 = -Dlum; 1 = + Dlum
+Week = time of experiment; weeks 1-6
+TP = total phosphorus, ug/L
+TN = total nitrogen, ug/L
+SRP = soluble reactive phosphorus, ug/L
+TIN = total inorganic nitrogen, ug/L
+ChlA = chlorophyll a, ug/L
+ZP = total zooplankton biomass, ug/L
+CAL = calanoid copepods, #/L
+DIAP = Diaphansoma, #/L
+CYCL = cylopoid copepods, #/L
+ASPL = Asplanchna, #/L
+BOSM = Bosmina, #/L
+DPAR = Daphnia parvula, #/L
+SIMO = Simocephalus, #/L
+CERI = Ceriodaphnia, #/L
+NAUP = naupulii, #/L
+DAMB = Daphnia ambigua, #/L
+DLUM = Daphnia lumholtzi, #/L
+CHYD = Chydorus, #/L
